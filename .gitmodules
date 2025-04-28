@@ -1,0 +1,4 @@
+[submodule "xls"]
+	path = xls
+	url = https://github.com/antmicro/xls.git
+	branch = xls-dashboard
